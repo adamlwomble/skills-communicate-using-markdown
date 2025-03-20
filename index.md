@@ -22,3 +22,9 @@ const entries = Object.entries(CATHEDRAL);
 const keys = entries.map(([key]) => key);
 const values = entries.map(([, value]) => value);
 ```
+
+## Tasks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
